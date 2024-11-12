@@ -1,0 +1,23 @@
+.terrabyte {
+    margin-top: 148px;
+}
+
+.terrabyte__subtitle {
+    margin-top: 24px;
+}
+
+.terrabyte__plus {
+    margin-top: 56px;
+    display: flex;
+}
+
+.terrabyte__plus-block {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 55px;
+}
+
+.terrabyte__plus-block img {
+    margin-right: 16px;
+}

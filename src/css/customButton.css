@@ -1,0 +1,27 @@
+.customButton {
+    width: 209px;
+    height: 60px;
+    border-radius: 30px;
+    background: white;
+    cursor: pointer;
+
+    color: var(--main-bg-color);
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 22px;
+    text-align: center;
+}
+
+.customButton:hover {
+    background: var(--hover-color);
+    transition: background-color .15s ease;
+}
+
+.customButton:active {
+    background: var(--main-blue-color);
+}
+
+.customButton-wide {
+    width: 219px;
+    height: 48px;
+}

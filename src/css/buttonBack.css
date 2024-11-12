@@ -1,0 +1,16 @@
+.buttonBack {
+    position: fixed;
+    bottom: 100px;
+    right: 50px;
+    opacity: 0.5;
+    width: 40px;
+    height: 40px;
+}
+
+.buttonBack_hidden {
+    display: none;
+}
+
+.buttonBack img {
+    width: 100%;
+}

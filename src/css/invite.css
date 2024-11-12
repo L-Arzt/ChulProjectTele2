@@ -1,0 +1,25 @@
+.invite {
+    padding-top: 162px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.invite__block {
+    max-width: 513px;
+}
+
+.invite__block-title {
+    margin-top: 38px;
+}
+
+.invite__block-subtitle {
+    margin-top: 30px;
+}
+
+.invite__block-action {
+    margin-top: 48px;
+}
+
+.invite__block-action_hidden {
+    display: none;
+}
